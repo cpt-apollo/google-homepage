@@ -1,0 +1,1 @@
+This is the read me file for my odin project assignment of recreating a google page. so far i've learned the basics of html and css, as well as how to think like a developer. this is just the start!
